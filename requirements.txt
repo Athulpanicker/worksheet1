@@ -1,0 +1,11 @@
+langchain
+langchain-community
+PyPDF2
+faiss-cpu
+sentence-transformers
+transformers
+gradio
+torch
+requests
+tqdm
+numpy
